@@ -1,3 +1,3 @@
 # Demo
 This is my first Git repository.<br>
-Author - Archan Gautam
+Author - Archan (Babu) Gautam
